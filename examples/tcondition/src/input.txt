@@ -1,0 +1,1 @@
+I'd find all tasks create by erik , title contains tapd, status is new, created_time two weeks ago
